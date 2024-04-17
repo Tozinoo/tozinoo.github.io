@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "92d92bea30a911b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "476e843c9579d31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9533b05b29992a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-16-위스키.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd383fd03990347c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9310f087329ebe72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b18501915898b4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f484f6db1b89b20f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ce54bc07b624c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a0c6d266be4cea",
+        "type": "tabs",
+        "dimension": 21.78030303030303,
+        "children": [
+          {
+            "id": "233e1b754fc6f985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-04-16-위스키.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "761cac6ee9677cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-04-16-위스키.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f287d668cadde31c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98baf39b408ff7cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b848e379aa0ca11b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-04-16-위스키.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6333e69ac24cee2e",
+        "type": "tabs",
+        "dimension": 78.21969696969697,
+        "children": [
+          {
+            "id": "1d6068f36dbff67d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a9533b05b29992a4",
+  "lastOpenFiles": [
+    "_site/위스키/index.html",
+    "_site/위스키",
+    "_posts/2024-04-16-asdf.md",
+    "_posts/2024-04-16-위스키.md",
+    "_posts/무제 파일.md",
+    "_site/asdf/index.html",
+    "_site/asdf",
+    "_posts/2024-04-15-first.md",
+    "_site/asdf.md/index.html",
+    "_site/asdf.md",
+    "_template/whisky notes.md.md",
+    "images/IMG_9003.jpg",
+    "images/IMG_9003 1.jpg",
+    "_template/daily.md.md",
+    "Template",
+    "_template",
+    "screenshot-layouts.png",
+    "screenshot.png",
+    "2024-04-15.md",
+    "_site/2024-04-15.md",
+    "images",
+    "_site/first/index.html",
+    "_site/first",
+    "_site/staticman.yml",
+    "_site/screenshot.png",
+    "_site/screenshot-layouts.png"
+  ]
+}
